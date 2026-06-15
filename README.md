@@ -73,4 +73,4 @@ These skills do not currently carry a published external repository link in thei
 | Folder | Skill | Description |
 | --- | --- | --- |
 | `skills/my-code-autid` | `codebase-audit` | Analyze a codebase and generate a comprehensive project map covering tech stack, architecture, features, design patterns, and code quality. |
- 
+| `skills/my-write-a-instruction` | `write-a-instruction` | Creates a concise project instruction file |
