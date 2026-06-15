@@ -63,10 +63,7 @@ Repository: https://github.com/mattpocock/skills
 | `skills/handoff` | `handoff` | Summarize a conversation into a handoff document. |
 | `skills/improve-codebase-architecture` | `improve-codebase-architecture` | Find architecture and refactoring opportunities in a codebase. |
 | `skills/review` | `review` | Review branch changes against standards and spec. |
-| `skills/setup-matt-pocock-skills` | `setup-matt-pocock-skills` | Set up repo-specific agent skills and issue tracker context. |
 | `skills/teach` | `teach` | Teach the user a new concept within this workspace. |
-| `skills/to-issues` | `to-issues` | Turn a plan into independently-grabbable issues. |
-| `skills/to-prd` | `to-prd` | Convert conversation context into a PRD for issue trackers. |
 | `skills/write-a-skill` | `write-a-skill` | Create a new agent skill with proper structure and resources. |
 
 ### local / custom
@@ -75,6 +72,5 @@ These skills do not currently carry a published external repository link in thei
 
 | Folder | Skill | Description |
 | --- | --- | --- |
-| `skills/my_project-map` | `project-map` | Generate a comprehensive project map and architecture audit of a codebase. |
-| `skills/my_project-map-2` | `codebase-audit` | Analyze a codebase and generate a comprehensive project map covering tech stack, architecture, features, design patterns, and code quality. |
+| `skills/my-code-autid` | `codebase-audit` | Analyze a codebase and generate a comprehensive project map covering tech stack, architecture, features, design patterns, and code quality. |
  
