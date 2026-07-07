@@ -65,12 +65,3 @@ Repository: https://github.com/mattpocock/skills
 | `skills/review` | `review` | Review branch changes against standards and spec. |
 | `skills/teach` | `teach` | Teach the user a new concept within this workspace. |
 | `skills/write-a-skill` | `write-a-skill` | Create a new agent skill with proper structure and resources. |
-
-### local / custom
-
-These skills do not currently carry a published external repository link in their `SKILL.md` metadata.
-
-| Folder | Skill | Description |
-| --- | --- | --- |
-| `skills/my-code-autid` | `codebase-audit` | Analyze a codebase and generate a comprehensive project map covering tech stack, architecture, features, design patterns, and code quality. |
-| `skills/my-write-a-instruction` | `write-a-instruction` | Creates a concise project instruction file |
