@@ -51,7 +51,7 @@ Repository: https://github.com/microsoft/awesome-copilot
 
 ### mattpocock
 
-Installed via the install script (all engineer/default skills). The folders below are junctions pointing to `~/.agents/skills/`, so the actual skill content lives outside this repository.
+Installed via the install script (all engineer/default skills), currently at version 1.10. The folders below are junctions pointing to `~/.agents/skills/`, so the actual skill content lives outside this repository.
 
 Repository: https://github.com/mattpocock/skills
 
@@ -68,11 +68,15 @@ Repository: https://github.com/mattpocock/skills
 | `handoff` | Compact the current conversation into a handoff document for another agent. |
 | `implement` | Implement a piece of work based on a PRD or set of issues. |
 | `improve-codebase-architecture` | Scan a codebase for deepening opportunities and present them as an HTML report. |
+| `prototype` | Build a throwaway prototype to answer a design question. |
 | `research` | Investigate a question against primary sources and capture findings as Markdown. |
 | `setup-matt-pocock-skills` | One-time setup for the engineering skills (issue tracker, triage labels, doc layout). |
 | `tdd` | Test-driven development: red-green-refactor and integration tests. |
 | `teach` | Teach the user a new skill or concept within the workspace. |
 | `to-issues` | Break a plan, spec, or PRD into independently-grabbable issues. |
 | `to-prd` | Turn the current conversation into a PRD on the project issue tracker. |
+| `to-spec` | Turn the current conversation into a spec on the project issue tracker. |
+| `to-tickets` | Break a plan or spec into tracer-bullet tickets with blocking edges. |
 | `triage` | Move issues and external PRs through a triage state machine. |
+| `wayfinder` | Plan a huge chunk of work as a shared map of investigation tickets. |
 | `writing-great-skills` | Reference for writing and editing skills well. |
