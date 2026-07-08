@@ -38,8 +38,7 @@ This pattern ensures coding CLIs and IDE extensions can consistently locate the 
 
 ## Skills
 
-The `skills/` directory is now flat: each skill lives in its own top-level folder under `skills/`.
-Nested provider namespaces such as `skills/<publisher>/<skill>` are not used here because Claude/CoE discovery works best with direct skill folders. If you need source attribution, keep it in `SKILL.md` metadata or in the README.
+All the custom skill in `skills/` directory.
 
 ### awesome-copilot
 
@@ -52,16 +51,6 @@ Repository: https://github.com/microsoft/awesome-copilot
 
 ### mattpocock
 
-Repository: https://github.com/mattpocock/skills
+Installed the skills (all engineer/defaults) via the install script. 
 
-| Folder | Skill | Description |
-| --- | --- | --- |
-| `skills/caveman` | `caveman` | Ultra-compressed communication mode with minimal filler and token usage. |
-| `skills/diagnose` | `diagnose` | Disciplined bug diagnosis loop for hard problems and regressions. |
-| `skills/grill-me` | `grill-me` | Interview the user about a plan or design until shared understanding. |
-| `skills/grill-with-docs` | `grill-with-docs` | Validate a plan against documentation and ADRs. |
-| `skills/handoff` | `handoff` | Summarize a conversation into a handoff document. |
-| `skills/improve-codebase-architecture` | `improve-codebase-architecture` | Find architecture and refactoring opportunities in a codebase. |
-| `skills/review` | `review` | Review branch changes against standards and spec. |
-| `skills/teach` | `teach` | Teach the user a new concept within this workspace. |
-| `skills/write-a-skill` | `write-a-skill` | Create a new agent skill with proper structure and resources. |
+Repository: https://github.com/mattpocock/skills
