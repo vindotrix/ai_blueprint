@@ -68,7 +68,6 @@ Repository: https://github.com/mattpocock/skills
 | `handoff` | Compact the current conversation into a handoff document for another agent. |
 | `implement` | Implement a piece of work based on a PRD or set of issues. |
 | `improve-codebase-architecture` | Scan a codebase for deepening opportunities and present them as an HTML report. |
-| `prototype` | Build a throwaway prototype to answer a design question. |
 | `research` | Investigate a question against primary sources and capture findings as Markdown. |
 | `setup-matt-pocock-skills` | One-time setup for the engineering skills (issue tracker, triage labels, doc layout). |
 | `tdd` | Test-driven development: red-green-refactor and integration tests. |
@@ -78,5 +77,4 @@ Repository: https://github.com/mattpocock/skills
 | `to-spec` | Turn the current conversation into a spec on the project issue tracker. |
 | `to-tickets` | Break a plan or spec into tracer-bullet tickets with blocking edges. |
 | `triage` | Move issues and external PRs through a triage state machine. |
-| `wayfinder` | Plan a huge chunk of work as a shared map of investigation tickets. |
 | `writing-great-skills` | Reference for writing and editing skills well. |
